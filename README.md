@@ -12,6 +12,15 @@ This program was made in Visual Studio and can be cloned directly back into Visu
 
 I have also added the already built executable file under Releases
 
+# Current Version
+
+Ver. 1.0
+
+- Allows user to delete profile and extension data in both Chrome and Firefox on Windows Vista/7/8/8.1.
+- Allows user to easily bring up Internet Explorer reset browser feature without having to open the browser or Internet Properties.
+
+MD5: 23a28a8761f124d5c8d64e3e3bec2e72
+
 # License
 
 Copyright (c) 2014 Justin Greco
